@@ -1,0 +1,697 @@
+{
+  "spaceList": [
+    {
+      "ObjectType": 4,
+      "ObjectName": "appleButton",
+      "isSlied": true,
+      "velocityOfSword": "29.26",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "peach(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemon(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 0,
+      "ObjectName": "pear(Clone)",
+      "isSlied": true,
+      "velocityOfSword": "114.15",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemon(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pear(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 2,
+      "ObjectName": "Bomb(Clone)",
+      "isSlied": true,
+      "velocityOfSword": "48.37",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pear(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemon(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemonIce(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 0,
+      "ObjectName": "apple(Clone)",
+      "isSlied": true,
+      "velocityOfSword": "85.18",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "Bomb(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemon(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pear(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "Bomb(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pear(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "peach(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 0,
+      "ObjectName": "peach(Clone)",
+      "isSlied": true,
+      "velocityOfSword": "184.34",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemon(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "Bomb(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "strawberryIce(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "peach(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pearIce(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 0,
+      "ObjectName": "pearIce(Clone)",
+      "isSlied": true,
+      "velocityOfSword": "50.63",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "appleIce(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemon(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 0,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": true,
+      "velocityOfSword": "404.57",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherriesIce(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "peach(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "peach(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "peach(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 0,
+      "ObjectName": "pear(Clone)",
+      "isSlied": true,
+      "velocityOfSword": "106.72",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "peach(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "Bomb(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "Bomb(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 0,
+      "ObjectName": "strawberryIce(Clone)",
+      "isSlied": true,
+      "velocityOfSword": "61.75",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemon(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemon(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pear(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "peach(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "Bomb(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pearIce(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "peach(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pear(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemon(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pear(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "Bomb(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemon(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pear(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pear(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemon(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pearIce(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "Bomb(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pear(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "lemon(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherriesIce(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pear(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pear(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "Bomb(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "cherries(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "pearIce(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "apple(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "peach(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "peach(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    },
+    {
+      "ObjectType": 3,
+      "ObjectName": "peachIce(Clone)",
+      "isSlied": false,
+      "velocityOfSword": "",
+      "swordAngle": 0
+    }
+  ]
+}
