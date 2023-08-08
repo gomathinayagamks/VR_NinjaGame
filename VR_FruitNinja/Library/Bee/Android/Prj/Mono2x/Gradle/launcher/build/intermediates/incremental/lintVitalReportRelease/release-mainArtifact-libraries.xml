@@ -1,9 +1,9 @@
 <libraries>
   <library
-      name="H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
-      jars="H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\680efa0aa81b5acffdd5f740e5745bec\transformed\out\jars\classes.jar;H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\680efa0aa81b5acffdd5f740e5745bec\transformed\out\jars\libs\unity-classes.jar"
+      name="F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\862db8f2f5dedcde73d574065c928d98\transformed\out\jars\classes.jar;F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\862db8f2f5dedcde73d574065c928d98\transformed\out\jars\libs\unity-classes.jar"
       resolved="Gradle:unityLibrary:unspecified"
-      folder="H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\680efa0aa81b5acffdd5f740e5745bec\transformed\out"
+      folder="F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\862db8f2f5dedcde73d574065c928d98\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -13,14 +13,14 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="__local_aars__:H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
-      jars="H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
-      resolved="__local_aars__:H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+      name="__local_aars__:F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
   <library
       name=":OVRPlugin:@aar"
-      jars="C:\Users\gnayagam\.gradle\caches\transforms-3\73fc14940d732a79bf843009165548dd\transformed\OVRPlugin\jars\classes.jar"
+      jars="C:\Users\gomat\.gradle\caches\transforms-3\73fc14940d732a79bf843009165548dd\transformed\OVRPlugin\jars\classes.jar"
       resolved=":OVRPlugin:"
-      folder="C:\Users\gnayagam\.gradle\caches\transforms-3\73fc14940d732a79bf843009165548dd\transformed\OVRPlugin"
+      folder="C:\Users\gomat\.gradle\caches\transforms-3\73fc14940d732a79bf843009165548dd\transformed\OVRPlugin"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -30,10 +30,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
-      jars="H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\045d9de68fd1c812f1aa3ec43a72c6c4\transformed\out\jars\classes.jar"
+      name="F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\17153a0908fd77e3ff68cfef0aede92d\transformed\out\jars\classes.jar"
       resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
-      folder="H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\045d9de68fd1c812f1aa3ec43a72c6c4\transformed\out"
+      folder="F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\17153a0908fd77e3ff68cfef0aede92d\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

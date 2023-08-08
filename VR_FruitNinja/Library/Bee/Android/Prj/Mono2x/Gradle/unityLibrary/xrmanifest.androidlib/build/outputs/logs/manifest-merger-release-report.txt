@@ -1,31 +1,31 @@
 -- Merging decision tree log ---
 manifest
-ADDED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:1-7:12
-INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:1-7:12
-INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:1-7:12
+ADDED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:1-7:12
+INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:1-7:12
+INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:1-7:12
 	package
-		ADDED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:70-113
-		INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
-		INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		ADDED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:70-113
+		INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
 	xmlns:android
-		ADDED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:11-69
+		ADDED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:11-69
 application
-ADDED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:3:3-6:17
+ADDED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:3:3-6:17
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:4:5-5:16
+ADDED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:4:5-5:16
 	android:name
-		ADDED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:4:15-68
+		ADDED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:4:15-68
 uses-sdk
-INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
-INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
-INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
-INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
-		ADDED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
-		INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		ADDED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
-		ADDED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
-		INJECTED from H:\_Projects\Practice\FruitNinja\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		ADDED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		INJECTED from F:\Unity\GitHub\FourBends\VR_NinjaGame\VR_FruitNinja\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
