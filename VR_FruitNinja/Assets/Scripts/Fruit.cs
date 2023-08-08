@@ -36,15 +36,17 @@ public class Fruit : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        Debug.Log(other.tag);
         if (other.transform.CompareTag("Player"))
         {
-            //Debug.Log("player swapped");
+            Debug.Log("player swapped");
             Weapon weapon = other.transform.GetComponentInParent<Weapon>();
             if (weapon.canSlice)
             {
-                //Debug.Log("velocity " + weapon.SwordVelocity);
+                Debug.Log("velocity " + weapon.SwordVelocity);
                 if (weapon.SwordVelocity > 3f || particleTyp == particleType.Explosion)
                 {
+                    Debug.Log("gameObject" + gameObject);
                     gameController.Slice(gameObject, weapon);
                     StoringData(weapon);
                 }
